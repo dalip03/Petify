@@ -1,2 +1,2 @@
 # Petify
- Petify Website for Pets
+ Petify Website for Pet Lover's
